@@ -1,0 +1,49 @@
+.ui.borderless.topmenu.menu{
+  margin-top: 100px;
+  box-shadow: none;
+  border: none;
+
+}
+.ten.wide.column.one{
+  margin-top: 15px;
+  font-size: 20px;
+  text-align: center;
+  background-color: cornsilk;
+  text-end-overflow: yes;
+}
+.topic{
+  font-size: 18px;
+}
+.ten.wide.column.two{
+  background-color:#fbe0ca;
+  font-size: 20px;
+  height: 80px;
+}
+.ui.button{
+  margin-left: 20px;
+  background-color:#d78541;
+  color: white;
+}
+.three.wide.column.one{
+  margin-right: 33px;
+  background-color: #f9f8f3;
+}
+.ten.wide.column.four{
+  background-color: #f9f8f3;
+}
+.three.wide.column.two,.thirteen.wide.column {
+  margin-top: 20px;
+  background-color: #f9f8f3;
+}
+
+body{
+  margin-left: 100px;
+  margin-right: 200px;
+}
+.line{
+  margin-top: 50px;
+  float: bottom;
+  text-align: center;
+
+}
+
